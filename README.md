@@ -7,11 +7,11 @@ In this project, the effect of Two-child Policy rised in Oct.30, 2015 and conduc
 # Table of Contents
 - [Method](#Method)
 - [Data](#Data)
-  - [processed_data](#processed_data)
-  - [queried_data](#queried_data)
-- [Code](#usage)
-  - [data_query](#data_query)
-  - [data_anaylsis](#data_anaylsis)
+  - [processed_data](#Data/processed_data)
+  - [queried_data](#Data/queried_data)
+- [Code](#Code)
+  - [data_query](#Code/data_query)
+  - [data_anaylsis](#Code/data_anaylsis)
 
 # About the author
 <img src="headshot.jpg" width=200>
