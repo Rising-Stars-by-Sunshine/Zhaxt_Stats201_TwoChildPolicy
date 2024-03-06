@@ -2,7 +2,7 @@
 
 ## Intellectual growth
 
-In this class, I got a fantastic glance at machine learning. Before I never learned about this method, but now I realize why it is widely accepted and applied by people currently. I believe machine learning can help people achieve more and more with the help of ml.
+In this class, I got a fantastic glance at machine learning. Before I never learned about this method, but now I realize why it is widely accepted and applied by people currently. I believe machine learning can help people achieve more and more with the help of ML.
 
 The magic of interdisciplinary research is the potential of discovering new things between projects. It can help humans find new topics, new applications, and even new projects.
 
