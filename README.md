@@ -11,11 +11,14 @@ In this project, the effect of this policy is estimated from the stock value of 
 # Table of Contents
 - [Method](/Method)
 - [Data](/Data)
-  - [processed_data](/Data/processed_data)
-  - [queried_data](/Data/queried_data)
+  - [Processed_data](/Data/processed_data)
+  - [Queried_data](/Data/queried_data)
 - [Code](/Code)
-  - [data_query](/Code/data_query)
-  - [data_anaylsis](/Code/data_anaylsis)
+  - [Data_query](/Code/data_query)
+  - [Data_anaylsis](/Code/data_anaylsis)
+- [Results](/Results)
+- [Future Research Directions](/Future_Research_Directions)
+- [Spotlights](/Spotlights)
 
 # Reference
 CEI Data. (2024). https://wap.ceidata.cei.cn/detail?id=wtk%2BC6zf8F0%3D
