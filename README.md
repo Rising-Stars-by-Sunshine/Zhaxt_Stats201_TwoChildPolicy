@@ -2,9 +2,11 @@ Zhaxt_Stats201_TwoChildPolicy
 
 # What is the effect of Two-child Policy on the maternal and child market in China?
 
-Since the announcement of the Two-child Policy on October 30, 2015 in China, the population is expected to be in a different situation before and after 2016. However, there is meant to be more areas influneced by this policy, such as the stock market. In this project, the effect of this policy is estimated from the stock value of Beingmate, a company that produces and sells baby foods. This project is likely to help the government to better estimate the effect of policy, make mothers and children rest assured of the situation, and enable investors to better track the trend of stocks.
+Since the announcement of the Two-child Policy on October 30, 2015 in China, the population is expected to be in a different situation before and after 2016. However, there is meant to be more areas influneced by this policy, such as the stock market.
 
-<img src="Birth_rate.jpg" width=1000>
+In this project, the effect of this policy is estimated from the stock value of Beingmate, a company that produces and sells baby foods. This project is likely to help the government to better estimate the effect of policy, make mothers and children rest assured of the situation, and enable investors to better track the trend of stocks.
+
+<img src="Birth_rate.png" width=1000>
 
 # Table of Contents
 - [Method](/Method)
