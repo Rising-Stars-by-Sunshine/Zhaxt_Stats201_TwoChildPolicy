@@ -1,5 +1,7 @@
 # Spotlights
 
+<img src="poster.png" width=800>
+
 ## Intellectual growth
 
 In this class, I got a fantastic glance at machine learning. Before I never learned about this method, but now I realize why it is widely accepted and applied by people currently. I believe machine learning can help people achieve more and more with the help of ML.
